@@ -1,0 +1,6 @@
+namespace MyProject.Math;
+
+struct Vector2 {
+	x: float;
+	y: float;
+}

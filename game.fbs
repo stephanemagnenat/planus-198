@@ -1,0 +1,7 @@
+include "math.fbs";
+
+namespace MyProject.Game;
+
+table GameObject {
+	position: Math.Vector2;
+}
